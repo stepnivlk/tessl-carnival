@@ -61,7 +61,7 @@ src/
   midway/                 the walkable midway map
     world.ts              layout, movement and pathfinding (plain functions)
     world.test.ts
-    render.ts             drawing the scenery, booths and people
+    render/               drawing the scenery, booths and people, one file each
     palette.ts            the map's scenery colours, built on the theme
     midway.ts             input, camera and the animation loop
   carnival/               shared base every game uses
